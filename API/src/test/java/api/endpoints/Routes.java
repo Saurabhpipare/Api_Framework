@@ -13,14 +13,7 @@ public class Routes {
 	public static String Update_Url=Base_URL+"/user/{username}";
 	public static String Delete_Url=Base_URL+"/user/{username}";
 
-	
-	//Store Model
-	
-	
-	
-	
-	
-	//Pet Model
+
 	
 	
 	
